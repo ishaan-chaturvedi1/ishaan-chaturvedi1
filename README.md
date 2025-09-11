@@ -1,4 +1,4 @@
-## Hi there This is [Ishaan](https://github.com/ishaan-chaturvedi1)
+## Hi there! This is [Ishaan](https://github.com/ishaan-chaturvedi1)
 
 ### About me
 
