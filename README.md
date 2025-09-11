@@ -1,10 +1,13 @@
-## Hi there 👋 This is[Ishaan](https://github.com/ishaan-chaturvedi1)
+## Hi there This is [Ishaan](https://github.com/ishaan-chaturvedi1)
 
-#### About me
+### About me
 
 I am a tech enthusiast and I love computers.
 
 ### Skills
+
+* Python(GUIs through tkinter)
+* Web Dev(HTML, CSS, JS, Tailwind CSS, Express, Mongodb, Node JS, Hosting, React(with vite and nextjs both), Next JS)
 
 <!--
 **ishaan-chaturvedi1/ishaan-chaturvedi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
