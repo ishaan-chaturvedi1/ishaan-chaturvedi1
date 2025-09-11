@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 This is Ishaan Chatruvedi
 
-This is Ishaan Chaturvedi. I love computers.
+#### About me
+
+I am a tech enthusiast and I love computers.
 
 ### Skills
 
