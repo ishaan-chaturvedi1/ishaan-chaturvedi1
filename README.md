@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a tech enthusiast and I love computers.
+Hello! My name is Ishaan Chaturvedi, and I’m a 13-year-old tech enthusiast, born on July 23, 2012. I have a deep passion for technology, programming, and building innovative digital experiences. As a Full Stack Web Developer and Python Developer, I love creating dynamic websites, useful applications, and experimenting with new tools and technologies. Coding is not just a skill for me—it’s something I truly enjoy and use to bring my ideas to life. I’m always eager to learn more, improve my skills, and explore the endless possibilities that the world of technology offers.
 
 ### Skills
 
