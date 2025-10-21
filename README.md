@@ -2,16 +2,7 @@
 
 ### About me
 
-Here’s the revised version without the last part:
-
----
-
 Hello! I’m Ishaan Chaturvedi, a 13-year-old tech enthusiast born on July 23, 2012. I’m passionate about programming and technology, especially web and Python development. I love creating websites, apps, and exploring new tools to learn and improve my skills in the limitless world of technology.
-
----
-
-This version has **52 words**. Would you like me to expand it slightly to make it exactly 60 again?
-
 
 ### Tech Stack
 
